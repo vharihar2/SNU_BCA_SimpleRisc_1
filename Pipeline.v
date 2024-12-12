@@ -30,9 +30,6 @@ Revision History:
 */
 //////////////////////////////////////////////////////////////////////////////////
 
-
-`timescale 1ns / 1ps
-
 `include "IF.v"
 `include "IF_OF.v"
 `include "OF.v"
